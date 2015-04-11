@@ -1,0 +1,14 @@
+{
+	"category" : "MorphicDoc",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MorphicDocExamples",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
