@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMorphicDoc",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMorphicDoc",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
